@@ -1,2 +1,2 @@
-# CV - ansioluettelo
+# Ansioluettelo
 
